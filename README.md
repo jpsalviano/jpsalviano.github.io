@@ -4,6 +4,6 @@
 
 So, in the next days I'm gonna develop a nice looking static page, linking visitors to my professional contact info and some stuff I write on Notion.os
 
-Suggestions? Reach me at my twitter @jpsalviano (DMs only). 
+Suggestions? Reach me on twitter @jpsalviano (DMs only). 
 
 Peace!
